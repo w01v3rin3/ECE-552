@@ -1,0 +1,12 @@
+VA 5 8 0 V
+VB 6 8 0 V
+Vcc 7 8 5 V
+NMOS1 5 1 2
+NMOS2 6 8 1
+PMOS1 5 7 2
+PMOS2 6 7 2
+CL 4 8 1 pF
+C1 1 8 1 pF
+C2 2 8 2 pF
+RT 2 3 0.1 Ohm
+LT 3 4 0.001 mH
